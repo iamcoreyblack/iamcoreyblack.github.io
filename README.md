@@ -1,2 +1,2 @@
 # iamcoreyblack.github.io
-Corey Black's webiste
+Corey Black's website
