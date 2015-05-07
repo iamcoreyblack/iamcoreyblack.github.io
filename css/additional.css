@@ -1,0 +1,13 @@
+body {
+	font-family: 'Lato';
+	font-size: '16px';
+}
+
+.top-bar-section {
+	font-family: 'Lato';
+	text-align: center;
+}
+
+.top-bar-section ul {
+	display: inline-block;
+}
